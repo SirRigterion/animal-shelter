@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+alembic
+bcrypt
+PyJWT
+python-multipart
+python-dotenv
+httpx

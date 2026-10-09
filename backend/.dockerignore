@@ -1,0 +1,8 @@
+.venv
+.env
+__pycache__
+*.pyc
+*.bat
+node_modules
+package.json
+.git

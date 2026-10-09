@@ -1,0 +1,24 @@
+# секреты
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE / ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# загрузки пользователей (демо-фото pet_*.png остаются в репозитории)
+backend/uploads/*
+!backend/uploads/pet_*.png
